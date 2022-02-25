@@ -10,11 +10,11 @@ Built with **NodeJS, Puppeteer, Notion API, and Ravelry API**.
 
 ## Setup instructions
 
-### **Notion Page:**
+### Notion page
 
-Create a Notion page for the new Table to be created in
+Create a Notion page for the new Table to be created in.
 
-### **ENV Vars:**
+### Environment variables
 
 Create a `.env` file with the following variables:
 
@@ -23,13 +23,13 @@ Create a `.env` file with the following variables:
 - `RAVELRY_USERNAME`: username from your Ravelry app credentials
 - `RAVELRY_PASSWORD`: password from your Ravelry app credentials
 
-### **Installation**
+### Installation
 
 ```
 npm install
 ```
 
-### **Usage**
+### Usage
 
 ```
 npm start
